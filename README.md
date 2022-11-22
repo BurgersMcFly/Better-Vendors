@@ -6,7 +6,7 @@ Vendors have their Always in stock items expanded, sell larger quantities of amm
 
 Modded             |  Vanilla
 :-------------------------:|:-------------------------:
-![](https://staticdelivery.nexusmods.com/mods/3333/images/thumbnails/6235/6235-1667305199-886612091.jpeg) ![](https://staticdelivery.nexusmods.com/mods/3333/images/thumbnails/6235/6235-1667305207-54987381.jpeg) | ![](https://staticdelivery.nexusmods.com/mods/3333/images/thumbnails/6235/6235-1667305215-1297878973.jpeg) ![](https://staticdelivery.nexusmods.com/mods/3333/images/thumbnails/6235/6235-1667305223-1769484042.jpeg)
+![](https://staticdelivery.nexusmods.com/mods/3333/images/6235/6235-1667305199-886612091.jpeg) ![](https://staticdelivery.nexusmods.com/mods/3333/images/6235/6235-1667305207-54987381.jpeg) | ![](https://staticdelivery.nexusmods.com/mods/3333/images/6235/6235-1667305215-1297878973.jpeg) ![](https://staticdelivery.nexusmods.com/mods/3333/images/6235/6235-1667305223-1769484042.jpeg)
 
 ## Mod page on Nexus Mods
 
